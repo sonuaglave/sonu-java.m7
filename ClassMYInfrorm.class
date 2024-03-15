@@ -1,0 +1,14 @@
+Êþº¾   A <
+       java/lang/Object <init> ()VBœuÃB¬¨ö@¹™šAs33Bi  	 
+      java/lang/System out Ljava/io/PrintStream;      makeConcatWithConstants (F)Ljava/lang/String;
+       java/io/PrintStream  println (Ljava/lang/String;)V          ClassMYInfrorm Code LineNumberTable main ([Ljava/lang/String;)V 
+SourceFile ClassMYInfrorm.java BootstrapMethods ) hscPercentage= + sscThPercentage= - 	myHight= / 
+dailyWalk= 1
+ 2 3  4  5 $java/lang/invoke/StringConcatFactory ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; InnerClasses  8 %java/lang/invoke/MethodHandles$Lookup  : java/lang/invoke/MethodHandles Lookup               !        *· ±    "        	 # $  !        C DE	F
+8
+8² #º   ¶ ² $º   ¶ ² %º   ¶ ² º   ¶ ±    "   * 
+         	  
+ 	  
+   ) 
+ 5  B   %    & '     0  ( 0  * 0  , 0  . 6   
+  7 9 ; 
